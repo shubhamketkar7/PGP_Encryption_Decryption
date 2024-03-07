@@ -8,7 +8,8 @@ Logging: Logs activities to files for monitoring and debugging purposes.
 Configuration: Utilizes a properties file for configuration of input/output directories, key paths, and other settings.
 
 # Usage
-Configuration: Edit the config.properties file located in the application directory to set input/output directories, key paths, and other configurations.
+Configuration: Edit the config.properties file located in the application directory to set input/output directories, key paths, and other configurations. 
+
 Encryption: Place files to be encrypted in the input directory specified in the config.properties file.Run the PGPencryption.java file to encrypt the files using the specified public key. Encrypted files will be stored in the output directory specified in the config.properties file. Original files will be moved to the backup directory after encryption.
 
 Decryption: Place PGP encrypted files in the input directory specified in the config.properties file. Run the PGPdecryption.java file to decrypt the encrypted files using the specified private key and passphrase. Decrypted files will be stored in the output directory specified in the config.properties file.
