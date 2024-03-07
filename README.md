@@ -23,11 +23,16 @@ Bouncy Castle Library: Provides PGP functionality for encryption and decryption.
 
 # Requirements
 Java Development Kit (JDK) version 8 or higher.
+
 Bouncy Castle library.
-Setup
+
+# Setup
 Clone the repository to your local machine.
+
 Ensure JDK and Bouncy Castle library are installed.
+
 Edit the config.properties file with appropriate configurations.
+
 Compile and run PGPencryption.java and PGPdecryption.java files.
 
 # License
