@@ -3,8 +3,11 @@ This Java application provides functionality to encrypt files using PGP (Pretty 
 
 # Features
 Encryption: Encrypt files using PGP encryption with a specified public key.
+
 Decryption: Decrypt PGP encrypted files using the corresponding private key.
+
 Logging: Logs activities to files for monitoring and debugging purposes.
+
 Configuration: Utilizes a properties file for configuration of input/output directories, key paths, and other settings.
 
 # Usage
@@ -32,6 +35,7 @@ This project is licensed under the MIT License.
 
 # Authors
 Shubham Ketkar
+
 shubhamketkar.work@gmail.com
 
 # Acknowledgments
