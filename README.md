@@ -1,6 +1,4 @@
 # PGP Encryption Decryption in Java using Bouncy Castle Library
-
-# PGP Encryption and Decryption Utility
 This Java application provides functionality to encrypt files using PGP (Pretty Good Privacy) encryption and decrypt PGP encrypted files. It utilizes the Bouncy Castle library for PGP functionality.
 
 # Features
