@@ -35,9 +35,6 @@ Edit the config.properties file with appropriate configurations.
 
 Compile and run PGPencryption.java and PGPdecryption.java files.
 
-# License
-This project is licensed under the MIT License.
-
 # Authors
 Shubham Ketkar
 
