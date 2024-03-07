@@ -29,7 +29,7 @@ Compile and run PGPencryption.java and PGPdecryption.java files.
 # License
 This project is licensed under the MIT License.
 
-Authors
+# Authors
 Shubham Ketkar
 shubhamketkar.work@gmail.com
 
@@ -42,4 +42,4 @@ Please submit any bug reports, feature requests, or contributions via GitHub iss
 # Disclaimer
 This application is provided as-is without any warranty. Users are responsible for the security and proper usage of their encryption keys and data.
 
-For any questions or support, please contact shubhamketkar.work@gmail.com
+# For any questions or support, please contact shubhamketkar.work@gmail.com
